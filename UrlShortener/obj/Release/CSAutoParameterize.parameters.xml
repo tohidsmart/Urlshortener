@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="UrlDatabase-Web.config Connection String" description="UrlDatabase Connection String used in web.config by the application to access the database." defaultValue="Data Source=.;Initial Catalog=UrlShortener;User Id=sa;Password=$password0" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\taz\\Documents\\Visual\ Studio\ 2015\\Projects\\UrlShortener\\UrlShortener\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='UrlDatabase']/@connectionString" />
+  </parameter>
+</parameters>
